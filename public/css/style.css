@@ -1,0 +1,22 @@
+.wrapperdiv{
+
+    padding-top: 80px;
+   background-color: #e3f2fd;
+
+}
+
+.imgthumbnail{
+
+    width:20px;
+
+
+
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+
